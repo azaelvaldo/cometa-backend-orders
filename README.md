@@ -25,3 +25,5 @@ Ejecutar TEST
 pytest
 ```
 
+Endpoint de consulta
+http://127.0.0.1:8000/order
